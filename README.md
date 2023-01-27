@@ -1,6 +1,6 @@
-# record_audio_with_mice_and_spectogram_of_audio - Flutter
+# record_audio_with_mic_and_spectogram_of_audio - Flutter
 
-Three in one. capture audio with mobile mice and then play, play songs from internal download directly, displaying spectogram (frequency) of an audio in Flutter.
+Three in one. capture audio with mobile mic and then play, play songs from internal download directly, displaying spectogram (frequency) of an audio in Flutter.
 
 ✔️ Sound NullSafety
 
